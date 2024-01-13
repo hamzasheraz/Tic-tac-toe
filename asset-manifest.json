@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hamzasheraz/Tic-tac-toe/static/css/main.f0e7a57a.css",
+    "main.js": "/hamzasheraz/Tic-tac-toe/static/js/main.152335b7.js",
+    "static/js/787.4bc435fe.chunk.js": "/hamzasheraz/Tic-tac-toe/static/js/787.4bc435fe.chunk.js",
+    "index.html": "/hamzasheraz/Tic-tac-toe/index.html",
+    "main.f0e7a57a.css.map": "/hamzasheraz/Tic-tac-toe/static/css/main.f0e7a57a.css.map",
+    "main.152335b7.js.map": "/hamzasheraz/Tic-tac-toe/static/js/main.152335b7.js.map",
+    "787.4bc435fe.chunk.js.map": "/hamzasheraz/Tic-tac-toe/static/js/787.4bc435fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e7a57a.css",
+    "static/js/main.152335b7.js"
+  ]
+}
